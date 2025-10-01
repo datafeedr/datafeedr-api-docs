@@ -4,7 +4,7 @@ There are 2 requirements for using the Datafeedr API.
 
 ## API Keys
 
-You will need a set of Datafeedr API keys which can be [purchased here](https://members.datafeedr.com/subscribe).
+You will need a set of Datafeedr API keys which can be [purchased here](https://datafeedr.me/pricing).
 
 Datafeedr API keys consist of an **ACCESS ID** and an **ACCESS KEY** which must be included in all API Requests.
 
