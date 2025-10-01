@@ -1,8 +1,8 @@
-name: Deploy
+name: Deploy (GH Pages)
 
 on:
   push:
-    branches: [ 'main' ]
+    branches: [ 'master' ]
 
 jobs:
   deploy:
