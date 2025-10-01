@@ -1,6 +1,6 @@
 # Requirements
 
-There are 2 requirements for using the Datafeedr API.
+There are 2 requirements for using the Datafeedr API: API Keys and Affiliate IDs.
 
 ## API Keys
 
